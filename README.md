@@ -130,25 +130,25 @@
 * Model deployment options include saved checkpoints for inference on new videos
 
 Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/53782366/7bdb0404-9f3b-4471-8383-74d80b2afa91/LiSMoT.ipynb\\
-[2] https://ijisrt.com/assets/upload/files/IJISRT23AUG1551.pdf
-[3] https://www.imanagerpublications.com/article/20576/
-[4] https://ceur-ws.org/Vol-3868/Paper8.pdf
-[5] https://iaeme.com/MasterAdmin/Journal_uploads/IJARET/VOLUME_11_ISSUE_12/IJARET_11_12_198.pdf
-[6] https://www.techscience.com/cmc/v68n2/42177/html
-[7] https://restpublisher.com/wp-content/uploads/2024/09/Visual-Speech-Recognition-Using-3D-CNN-and-LSTMS.pdf
-[8] https://ijcrt.org/papers/IJCRT2406297.pdf
-[9] https://www.kscst.org.in/spp/47_series/47s_spp/Exhibition%20Projects/201_47S_BE_3986.pdf
-[10] https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119792826.ch4
-[11] https://ijetms.in/Vol-8-issue-3/Vol-8-Issue-3-39.pdf
-[12] https://www.cseij.org/papers/v15n1/15125cseij10.pdf
-[13] https://www.mdpi.com/2076-3417/12/19/9532
-[14] https://paperswithcode.com/task/lipreading
-[15] https://www.mdpi.com/1424-8220/22/1/72
-[16] https://scope-journal.com/assets/uploads/doc/a7736-326-336.202410116.pdf
-[17] https://www.semanticscholar.org/paper/b383e01326c587a97e776d939f127a180e54b563
-[18] https://github.com/astorfi/lip-reading-deeplearning
-[19] https://www.mdpi.com/2673-7426/4/1/23
-[20] https://blog.mlreview.com/multi-modal-methods-part-one-49361832bc7e
-[21] https://arxiv.org/abs/2110.07879
+1. [LiSMoT.ipynb](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/53782366/7bdb0404-9f3b-4471-8383-74d80b2afa91/LiSMoT.ipynb)
+2. [IJISRT - Visual Speech Recognition](https://ijisrt.com/assets/upload/files/IJISRT23AUG1551.pdf)
+3. [imanager - Paper on Deep Learning](https://www.imanagerpublications.com/article/20576/)
+4. [CEUR-WS - Paper on Deep Learning](https://ceur-ws.org/Vol-3868/Paper8.pdf)
+5. [IJARET - Paper on Speech Recognition](https://iaeme.com/MasterAdmin/Journal_uploads/IJARET/VOLUME_11_ISSUE_12/IJARET_11_12_198.pdf)
+6. [TechScience - CMC Paper on Deep Learning](https://www.techscience.com/cmc/v68n2/42177/html)
+7. [Visual Speech Recognition Using 3D CNN and LSTMs](https://restpublisher.com/wp-content/uploads/2024/09/Visual-Speech-Recognition-Using-3D-CNN-and-LSTMS.pdf)
+8. [IJCRT Paper on Speech Recognition](https://ijcrt.org/papers/IJCRT2406297.pdf)
+9. [KSCST - BE Project on Speech](https://www.kscst.org.in/spp/47_series/47s_spp/Exhibition%20Projects/201_47S_BE_3986.pdf)
+10. [Wiley - Chapter on Speech Recognition](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119792826.ch4)
+11. [IJETMS Paper on Speech Processing](https://ijetms.in/Vol-8-issue-3/Vol-8-Issue-3-39.pdf)
+12. [CSEIJ Paper on Deep Learning for Speech](https://www.cseij.org/papers/v15n1/15125cseij10.pdf)
+13. [MDPI Paper on Deep Learning for Vision and Speech](https://www.mdpi.com/2076-3417/12/19/9532)
+14. [Lipreading Task on Papers with Code](https://paperswithcode.com/task/lipreading)
+15. [MDPI - Paper on Speech and Video Processing](https://www.mdpi.com/1424-8220/22/1/72)
+16. [Scope Journal - Deep Learning Paper](https://scope-journal.com/assets/uploads/doc/a7736-326-336.202410116.pdf)
+17. [Semantic Scholar Paper on Speech Recognition](https://www.semanticscholar.org/paper/b383e01326c587a97e776d939f127a180e54b563)
+18. [GitHub Repository for Lip Reading Deep Learning](https://github.com/astorfi/lip-reading-deeplearning)
+19. [MDPI - Paper on Visual Speech Recognition](https://www.mdpi.com/2673-7426/4/1/23)
+20. [Blog on Multi-Modal Methods](https://blog.mlreview.com/multi-modal-methods-part-one-49361832bc7e)
+21. [ArXiv Paper on Lipreading](https://arxiv.org/abs/2110.07879)
 
