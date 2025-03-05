@@ -1,5 +1,6 @@
-# L![lipreading](https://github.com/user-attachments/assets/02802104-5ebf-4453-aada-7914e8d4d589)
-iSMoT: Lip_Sync_Motion_Transcriber
+# LiSMoT: Lip_Sync_Motion_Transcriber
+
+![lipreading](https://github.com/user-attachments/assets/02802104-5ebf-4453-aada-7914e8d4d589)
 
 ## Overview and Purpose
 
