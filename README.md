@@ -130,10 +130,10 @@
 * Model deployment options include saved checkpoints for inference on new videos
 
 Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/53782366/7bdb0404-9f3b-4471-8383-74d80b2afa91/LiSMoT.ipynb
-[2] https://ijisrt.com/assets/upload/files/IJISRT23AUG1551.pdf
-[3] https://www.imanagerpublications.com/article/20576/
-[4] https://ceur-ws.org/Vol-3868/Paper8.pdf
+*[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/53782366/7bdb0404-9f3b-4471-8383-74d80b2afa91/LiSMoT.ipynb
+*[2] https://ijisrt.com/assets/upload/files/IJISRT23AUG1551.pdf
+*[3] https://www.imanagerpublications.com/article/20576/
+*[4] https://ceur-ws.org/Vol-3868/Paper8.pdf
 [5] https://iaeme.com/MasterAdmin/Journal_uploads/IJARET/VOLUME_11_ISSUE_12/IJARET_11_12_198.pdf
 [6] https://www.techscience.com/cmc/v68n2/42177/html
 [7] https://restpublisher.com/wp-content/uploads/2024/09/Visual-Speech-Recognition-Using-3D-CNN-and-LSTMS.pdf
@@ -152,5 +152,3 @@ Citations:
 [20] https://blog.mlreview.com/multi-modal-methods-part-one-49361832bc7e
 [21] https://arxiv.org/abs/2110.07879
 
----
-Answer from Perplexity: pplx.ai/share
